@@ -1,3 +1,9 @@
+- name: <span class="highlight">Senior iOS Developer</span> @ Slack
+  alt: Slack
+  description: Working with the <span class="highlight">iOS Infra</span> team. Still learning my role 👋
+  technologies: Swift
+  image: assets/work/Slack.png
+  link: https://slack.com
 - name: <span class="highlight">Senior iOS Developer</span> @ Shopify
   alt: Shopify
   description: Worked with the <span class="highlight">Mobile Experience</span> team to empower mobile merchants. Built reusable components and frameworks used across the suite of native iOS apps at Shopify
