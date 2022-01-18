@@ -1,7 +1,7 @@
 - name: <span class="highlight">Senior iOS Developer</span> @ Slack
   alt: Slack
-  description: Working with the <span class="highlight">iOS Infra</span> team. Still learning my role 👋
-  technologies: Swift
+  description: Improving performance with the <span class="highlight">iOS Infrastructure</span> team. Focused on reducing the memory, CPU, network, and disk footprint of the Slack iOS app
+  technologies: Swift, Xcode Instruments
   image: assets/work/Slack.png
   link: https://slack.com
 - name: <span class="highlight">Senior iOS Developer</span> @ Shopify
