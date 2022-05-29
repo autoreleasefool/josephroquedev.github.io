@@ -18,12 +18,15 @@ loadjs: true
   </div>
 </div>
 
+{% assign personal_highlights = site.data.personal_highlights | where: "enabled", true %}
+{% assign work_highlights = site.data.work_highlights | where: "enabled", true %}
+
 <div id="about">
   <div class="about-inner">
     <div id="highlights-personal" class="section-highlights">
       <h1 class="highlight highlight-header-right">Personal Highlights</h1>
       <div class="highlight-items">
-        {% for item in site.data.personal_highlights %} {% include
+        {% for item in personal_highlights %} {% include
         partial/highlight.html item=item %} {% endfor %}
       </div>
     </div>
@@ -31,7 +34,7 @@ loadjs: true
     <div id="highlights-work" class="section-highlights">
       <h1 class="highlight highlight-header">Work Highlights</h1>
       <div class="highlight-items">
-        {% for item in site.data.work_highlights %} {% include
+        {% for item in work_highlights %} {% include
         partial/highlight.html item=item %} {% endfor %}
       </div>
     </div>

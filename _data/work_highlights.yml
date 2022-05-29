@@ -1,30 +1,42 @@
+- name: <span class="highlight">React Native Developer</span> @ AtoB
+  alt: AtoB
+  description: Building cross-platform mobile apps
+  technologies: React Native, Ruby on Rails
+  image: assets/work/Atob.png
+  link: https://atob.com
+  enabled: true
 - name: <span class="highlight">Senior iOS Developer</span> @ Slack
   alt: Slack
   description: Improving performance with the <span class="highlight">iOS Infrastructure</span> team. Focused on reducing the memory, CPU, network, and disk footprint of the Slack iOS app
   technologies: Swift, Xcode Instruments
   image: assets/work/Slack.png
   link: https://slack.com
+  enabled: true
 - name: <span class="highlight">Senior iOS Developer</span> @ Shopify
   alt: Shopify
   description: Worked with the <span class="highlight">Mobile Experience</span> team to empower mobile merchants. Built reusable components and frameworks used across the suite of native iOS apps at Shopify
   technologies: Swift, Ruby on Rails, GraphQL
   image: assets/work/Shopify.png
   link: https://shopify.ca
+  enabled: true
 - name: <span class="highlight">React Native Developer</span> @ Shopify
   alt: Shop app
   description: Joined the <span class="highlight">Shop</span> team in September 2019 for 8 months to aid in development of a shopping assistant app for iOS and Android. Used by millions to track their packages
   technologies: TypeScript, GraphQL
   image: assets/work/Shop.png
   link: https://shop.app
+  enabled: true
 - name: <span class="highlight">Software Developer Intern</span> @ Box
   alt: Box
   description: Implemented a new, core feature for the <span class="highlight">Box Drive</span> desktop application, along with a full technical specification
   technologies: Swift, Python
   image: assets/work/Box.png
   link: https://box.com
+  enabled: true
 - name: <span class="highlight">Developer Intern</span> @ Microsoft
   alt: Microsoft
   description: Participated in an overhaul of the NFL <span class="highlight">Xbox</span> and <span class="highlight">Windows</span> apps. Focused on <span class="highlight">design and accessibility</span>
   technologies: Lua, C#
   image: assets/work/Microsoft.png
   link: https://microsoft.com
+  enabled: false
