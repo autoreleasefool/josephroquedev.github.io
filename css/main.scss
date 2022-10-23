@@ -9,9 +9,10 @@
  * font-family: "Droid Sans", sans-serif;
  */
 
-$primaryBackground: #222F3E;
-$primaryText: #ffffff77;
-$highlightText: #FFFFFF;
+$primaryBackground: #222f3e;
+$primaryText: #ffffff;
+$secondaryText: #ffffff88;
+$highlightText: #ffefae;
 
 $spacingLarge: 32px;
 $spacingStandard: 16px;
@@ -103,6 +104,10 @@ header {
 
 .highlight {
   color: $highlightText;
+}
+
+.secondary {
+  color: $secondaryText;
 }
 
 .page-centred {

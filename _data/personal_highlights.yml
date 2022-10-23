@@ -1,18 +1,18 @@
-- name: <span class="highlight">5 Pin Bowling Companion</span>
+- name: 5 Pin Bowling Companion
   alt: 5 Pin Bowling Companion
   description: Developed the <span class="highlight">5 Pin Bowling Companion</span> app for bowlers who want to track their statistics and improve their scores.
   technologies: Kotlin, MVVM, JUnit, NodeJS
   image: assets/personal/Pin.png
   link: https://github.com/autoreleasefool/bowling-companion
   enabled: true
-- name: <span class="highlight">HiveMind</span>
+- name: HiveMind
   alt: HiveMind
   description: An AI I developed to play the board game <span class="highlight">Hive</span>. Players interact with an iOS app which connects the player to the AI to exchange moves.
   technologies: Swift, SwiftUI, Vapor, Clean Architecture
   image: assets/personal/HiveMind.png
   link: https://github.com/autoreleasefool/hivemind
   enabled: true
-- name: <span class="highlight">Campus Guide</span>
+- name: Campus Guide
   alt: Campus Guide
   description: Developed the <span class="highlight">Campus Guide</span> app to help new students at uOttawa orient themselves in the first weeks of school.
   technologies: React Native, Python

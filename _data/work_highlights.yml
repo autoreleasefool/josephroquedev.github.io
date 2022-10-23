@@ -1,39 +1,39 @@
-- name: <span class="highlight">React Native Developer</span> @ AtoB
+- name: React Native Developer @ AtoB
   alt: AtoB
   description: Building a <span class="highlight">cross-platform</span> app for truck drivers to find discounts on fuel near them. Built and architected the app from scratch, working with a small team to bootstrap new features.
   technologies: React Native, React Navigation, Tailwind, Ruby on Rails
   image: assets/work/Atob.png
   link: https://atob.com
   enabled: true
-- name: <span class="highlight">Senior iOS Developer</span> @ Slack
+- name: Senior iOS Developer @ Slack
   alt: Slack
   description: Improving performance with the <span class="highlight">iOS Infrastructure</span> team. Focused on reducing the memory, CPU, network, and disk footprint of the Slack iOS app
   technologies: Swift, Bazel, Xcode Instruments
   image: assets/work/Slack.png
   link: https://slack.com
   enabled: true
-- name: <span class="highlight">Senior iOS Developer</span> @ Shopify
+- name: Senior iOS Developer @ Shopify
   alt: Shopify
   description: Worked with the <span class="highlight">Mobile Experience</span> team to empower mobile merchants. Built reusable components and frameworks used across the suite of native iOS apps at Shopify
   technologies: Swift, Ruby on Rails, GraphQL
   image: assets/work/Shopify.png
   link: https://shopify.ca/mobile
   enabled: true
-- name: <span class="highlight">React Native Developer</span> @ Shopify
+- name: React Native Developer @ Shopify
   alt: Shop app
   description: Joined the <span class="highlight">Shop</span> team in September 2019 for 8 months to aid in development of a shopping assistant app for iOS and Android. Used by millions to track their packages
   technologies: React Native, TypeScript, GraphQL
   image: assets/work/Shop.png
   link: https://shop.app
   enabled: true
-- name: <span class="highlight">Software Developer Intern</span> @ Box
+- name: Software Developer Intern @ Box
   alt: Box
   description: Implemented a new, core feature for the <span class="highlight">Box Drive</span> desktop application, along with a full technical specification
   technologies: Swift, Python
   image: assets/work/Box.png
   link: https://box.com
   enabled: false
-- name: <span class="highlight">Developer Intern</span> @ Microsoft
+- name: Software Developer Intern @ Microsoft
   alt: Microsoft
   description: Participated in an overhaul of the NFL <span class="highlight">Xbox</span> and <span class="highlight">Windows</span> apps. Focused on <span class="highlight">design and accessibility</span>
   technologies: Lua, C#

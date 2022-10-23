@@ -11,9 +11,9 @@ loadjs: true
     <img src="{{ base }}/assets/profile.png" />
     <div class="description">
       <h1>{{ site.data.index.intro }}</h1>
-      <h3>{{ site.data.index.tagline }} </h3>
-      {% if site.data.index.work %}<h3>{{ site.data.index.work }}</h3>{% endif %}
-      <h3>{{ site.data.index.closing }}</h3>
+      <h3 class="secondary">{{ site.data.index.tagline }} </h3>
+      {% if site.data.index.work %}<h3 class="secondary">{{ site.data.index.work }}</h3>{% endif %}
+      <h3 class="secondary">{{ site.data.index.closing }}</h3>
     </div>
   </div>
 </div>
@@ -24,7 +24,7 @@ loadjs: true
 <div id="about">
   <div class="about-inner">
     <div id="highlights-personal" class="section-highlights">
-      <h1 class="highlight highlight-header-right">Personal Highlights</h1>
+      <h1 class="highlight-header-right">Personal Highlights</h1>
       <div class="highlight-items">
         {% for item in personal_highlights %} {% include
         partial/highlight.html item=item %} {% endfor %}
@@ -32,7 +32,7 @@ loadjs: true
     </div>
     <div class="highlight-separator"></div>
     <div id="highlights-work" class="section-highlights">
-      <h1 class="highlight highlight-header">Work Highlights</h1>
+      <h1 class="highlight-header">Work Highlights</h1>
       <div class="highlight-items">
         {% for item in work_highlights %} {% include
         partial/highlight.html item=item %} {% endfor %}
@@ -43,8 +43,8 @@ loadjs: true
 
 <div id="contact">
   <div class="contact-inner">
-    <h1 class="highlight">Looking to get in touch?</h1>
-    <h3>Find me at the links below</h3>
+    <h1>Looking to get in touch?</h1>
+    <h3 class="secondary">Find me at the links below</h3>
     <div class="links">
       {% for item in site.data.contact %} {% include partial/contact_link.html
       item=item %} {% endfor %}
