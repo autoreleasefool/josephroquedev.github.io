@@ -10,6 +10,7 @@
  */
 
 $primaryBackground: #222f3e;
+$secondaryBackground: #ffffff0c;
 $primaryText: #ffffff;
 $secondaryText: #ffffff88;
 $highlightText: #ffefae;
@@ -208,7 +209,12 @@ header {
 
 .item-highlight {
   max-width: 40em;
-  margin: $spacingStandard;
+  padding: $spacingStandard;
+  border-radius: $spacingStandard;
+
+  &:hover {
+    background-color: $secondaryBackground;
+  }
 
   .item-header {
     display: inline;
@@ -223,7 +229,6 @@ header {
   .item-details {
     display: flex;
     align-items: center;
-    margin: $spacingStandard;
 
     img {
       width: 64px;
