@@ -8,7 +8,7 @@
 - name: <span class="highlight">HiveMind</span>
   alt: HiveMind
   description: An AI I developed to play the board game <span class="highlight">Hive</span>. Players interact with an iOS app which connects the player to the AI to exchange moves.
-  technologies: Swift, Vapor
+  technologies: Swift, SwiftUI, Vapor, Clean Architecture
   image: assets/personal/HiveMind.png
   link: https://github.com/autoreleasefool/hivemind
   enabled: true
