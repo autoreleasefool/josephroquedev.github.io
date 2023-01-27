@@ -2,10 +2,10 @@
   alt: GitHub
   image: assets/contact/standard/github.svg
   image_highlighted: assets/contact/highlighted/github.svg
-- url: https://twitter.com/autoreleasefool/
-  alt: Twitter
-  image: assets/contact/standard/twitter.svg
-  image_highlighted: assets/contact/highlighted/twitter.svg
+- url: https://iosdev.space/@autoreleasefool
+  alt: Mastodon
+  image: assets/contact/standard/mastodon.svg
+  image_highlighted: assets/contact/highlighted/mastodon.svg
 - url: https://linkedin.com/in/josephroquedev/
   alt: LinkedIn
   image: assets/contact/standard/linkedin.svg
