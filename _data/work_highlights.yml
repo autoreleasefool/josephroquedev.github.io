@@ -1,6 +1,6 @@
 - name: React Native Developer @ AtoB
   alt: AtoB
-  description: Building a <span class="highlight">cross-platform</span> app for truck drivers to find discounts on fuel near them. Built and architected the app from scratch, working with a small team to bootstrap new features.
+  description: Built a <span class="highlight">cross-platform</span> app for truck drivers to find discounts on fuel near them. Developed the app from scratch, working with a small team to bootstrap new features.
   technologies: React Native, React Navigation, Tailwind, Ruby on Rails
   image: assets/work/Atob.png
   link: https://atob.com
