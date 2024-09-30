@@ -2,14 +2,14 @@
   alt: Approach, for 5 Pin Bowling
   description: Building <span class="highlight">Approach</span>, the 5 Pin Bowling Companion app for bowlers who want to track their statistics and improve their scores.
   technologies: SwiftUI, Composable Architecture, Kotlin, MVVM, Compose, SQL
-  image: assets/personal/Pin.png
+  image: assets/personal/approach.png
   link: https://github.com/autoreleasefool/approach
   enabled: true
 - name: 5 Pin Bowling Companion
   alt: 5 Pin Bowling Companion
   description:
   technologies: Kotlin, MVVM, JUnit, NodeJS
-  image: assets/personal/Pin.png
+  image: assets/personal/approach.png
   link: https://github.com/autoreleasefool/bowling-companion
   enabled: false
 - name: HiveMind
