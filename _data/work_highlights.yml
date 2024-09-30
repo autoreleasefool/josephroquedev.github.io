@@ -1,3 +1,10 @@
+- name: Senior iOS Developer @ Warner Music Group
+  alt: Warner Music Group
+  description: Building a fully <span class="highlight">SwiftUI</span> app for superfans.
+  technologies: SwiftUI, MVVM, GraphQL
+  image: assets/work/wmg.png
+  link: https://wmg.com
+  enabled: true
 - name: Senior React Native Developer @ AtoB
   alt: AtoB
   description: Built a <span class="highlight">cross-platform</span> app for truck drivers to find discounts on fuel near them. Developed the app from scratch, working with a small team to bootstrap new features.
